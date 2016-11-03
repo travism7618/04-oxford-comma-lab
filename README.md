@@ -51,7 +51,7 @@ But calling `.join` on the same array and giving it an argument of a `" :-) "` (
 
 ## Instructions 
 
-* Fork and clone this lab. Run `learn` to see the tests fail.
+* Fork and clone this lab. Run `rspec` to see the tests fail.
 * Write a method `oxford_comma` that takes an argument array of string elements and converts it into a string using the Oxford comma. For example, the array `["fiddleheads","okra","kohlrabi"]` should get converted to the string `"fiddleheads, okra, and kohlrabi"`.
   * **Hint:** *Remember, strings can be operated on very similarly to arrays. For instance, you can add elements to the end of strings with the* `<<` *("shovel") method just like you can with arrays.*
   * **Hint:** *What methods are available to you for converting arrays into strings? You might want to look it up in the Ruby Documentation.*
@@ -60,5 +60,3 @@ But calling `.join` on the same array and giving it an argument of a `" :-) "` (
 ## Resources
 * [Wikipedia](http://en.wikipedia.org) - [Serial Comma](http://en.wikipedia.org/wiki/Serial_comma)
 * [Dot Net Perls - Convert](http://www.dotnetperls.com/convert-ruby)
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oxford-comma' title='Oxford Comma List Formatter'>Oxford Comma List Formatter</a> on Learn.co and start learning to code for free.</p>
